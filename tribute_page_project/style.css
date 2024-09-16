@@ -2,6 +2,10 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+#heading{
+    background-color: blanchedalmond;
+}
+
 #title{
     font-size: 400%;
     width: 60vmax;
